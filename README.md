@@ -20,4 +20,5 @@
 - 해당 아파트 및 주택 근처 정류장 보기 : 공공데이터를 활용하여 근처 버스정류장에 대한 정보를 확인
 - 상권정보 : 시도, 구군, 읍면동 선택 시 커스텀 마커를 활용하여 상권 위치정보, 유형 제공
 
+## MainPage
 ![happyhousMain](https://user-images.githubusercontent.com/60593545/103411777-23664200-4bb5-11eb-872d-7dc5cc98e333.png)
