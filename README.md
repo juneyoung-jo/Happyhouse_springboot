@@ -6,8 +6,8 @@
 ## 사용 기술
 - Spring Boot
 - Vue.js
-- REST API Server 구축
-- Mysql DB 설계 및 구축
+- REST API Server 
+- Mysql DB
 - Mybatis
 - Google Map api
 - Kakao Map api
