@@ -9,6 +9,7 @@
 - REST API Server 
 - Mysql DB
 - Mybatis
+- JWT
 - Google Map api
 - Kakao Map api
 
