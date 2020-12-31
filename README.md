@@ -5,14 +5,14 @@
 <br>
 
 ## 사용 기술
-> Spring Boot
-> Vue.js
-> REST API Server 
-> Mysql DB
-> Mybatis
-> JWT
-> Google Map api
-> Kakao Map api
+- Spring Boot
+- Vue.js
+- REST API Server 
+- Mysql DB
+- Mybatis
+- JWT
+- Google Map api
+- Kakao Map api
 
 
 ## 개발 내용
